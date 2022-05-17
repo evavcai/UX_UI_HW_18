@@ -163,6 +163,9 @@ button {
     height: 50px;
     cursor: pointer;
 }
+.mamcase {
+    margin-left: -5%;
+}
 
 /*Skills*/
 .flexContainer {
@@ -275,6 +278,7 @@ footer {
         height: 40px;
         cursor: pointer;
     }
+    
     .content {
         display: inline-block;
         width: 100%;
